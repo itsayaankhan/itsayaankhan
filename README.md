@@ -2,3 +2,5 @@
 
 <h1>Ayaan Khan</h1>
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+I'm a student entering high school eager to build on my front-end coding path and improve other skills such as game development and video editing. 
+
